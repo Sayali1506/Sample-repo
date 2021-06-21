@@ -1,0 +1,40 @@
+body{
+    background-color: thistle;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 60px;
+}
+.color_style{
+    color: blue;
+}
+/* input{
+    width: 100%;
+}
+label{
+    font-family: sans-serif;
+    font-weight: bolder;
+} */
+button{
+    background-color: coral;
+    border: 5px solid white;
+    border-radius: 10px;
+    /* border: 5px dotted whitesmoke; */
+    color: white;
+}
+p{
+    border: 4px solid white;
+    border-radius: 20px;
+    box-shadow:20px 10px peachpuff;
+}
+input[type="text"]
+{
+    width: 100%;
+    border: 3px dotted black;
+}
+input[type="password"]
+{
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
